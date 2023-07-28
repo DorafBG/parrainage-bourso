@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+@import url("./nav.css");
+
+body{
+    background-image: url("../img/Image17.jpg");
+    background-size: 100%;
+}
+
+h1{
+    margin-top: 0.5em;
+    font-size: 6.1em;
+    text-shadow: -1px -1px 0 rgb(255 255 255), 1px -1px 0 rgb(255 255 255), -1px 1px 0 rgb(255 255 255), 1px 1px 0 rgb(255 255 255);
+}
+.desc{
+    color: aliceblue;
+    text-shadow: -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(0, 0, 0), -1px 1px 0 rgb(0, 0, 0), 1px 1px 0 rgb(0, 0, 0);
+    font-size: 3.1em;
+}
+
+.desc45{
+    color: rgb(182, 35, 121);
+    text-shadow: -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(0, 0, 0), -1px 1px 0 rgb(0, 0, 0), 1px 1px 0 rgb(0, 0, 0);
+    font-size: 3.1em;
+}
+
+.desc2{
+    color: aliceblue;
+    text-shadow: -1px -1px 0 rgb(0, 0, 0), 1px -1px 0 rgb(0, 0, 0), -1px 1px 0 rgb(0, 0, 0), 1px 1px 0 rgb(0, 0, 0);
+    font-size: 2.4em;
+    margin-top: 1.2em;
+
+    font-style: italic;
+    visibility: hidden;
+}
+
+.mon-bouton {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+  }
+  
+  .mon-bouton:hover {
+    background-color: #2980b9;
+  }

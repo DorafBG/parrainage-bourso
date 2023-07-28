@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+#titre{
+    margin-top: 1em;
+    font-size: 10em;
+}
+
+#bouton{
+    margin-top: 10%;
+    font-size: 4.2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+#card{
+    width: 40em;
+    height: 40em;
+}
+
+#desc{
+    font-size: 2.5em;
+}
+#desc2{
+    visibility: visible;
+}
+
+
+#doraflogo{
+    width: 100px;
+}
+
+#nav a{
+    font-size: 3em;
+}
+
+#body{
+    background-image: url("../img/Image17.jpg");
+    background-size: 100%;
+    
+}
+
+#footer img{
+    max-width: 4em;
+}
+#footer{
+    height: 4.05em;
+}
+
+#mail{
+    height: 3.8em;
+}
